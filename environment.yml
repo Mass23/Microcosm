@@ -8,11 +8,11 @@ dependencies:
   - r-ggplot2
   - r-tidyverse
   - r-dplyr
-  - bioconductor--phyloseq
-  - bioconductor--microbiome
+  - bioconductor-phyloseq
+  - bioconductor-microbiome
   - r-vegan
   - r-ggpubr
-  - bioconductor--biomformat
+  - bioconductor-biomformat
   - r-data.table
   - r-rstatix
   - bioconductor-ANCOMBC
