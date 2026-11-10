@@ -1,0 +1,18 @@
+name: microcosm-r
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - r-base>=4.3
+  - r-ggplot2
+  - r-tidyverse
+  - r-dpylr
+  - r-phyloseq
+  - r-microbiome
+  - r-vegan
+  - r-ggpubr
+  - r-biomformat
+  - r-data.table
+  - r-rstatix
+  - r-ANCOMBC
