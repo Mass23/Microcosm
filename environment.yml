@@ -7,12 +7,12 @@ dependencies:
   - r-base>=4.3
   - r-ggplot2
   - r-tidyverse
-  - r-dpylr
-  - r-phyloseq
-  - r-microbiome
+  - r-dplyr
+  - bioconductor--phyloseq
+  - bioconductor--microbiome
   - r-vegan
   - r-ggpubr
-  - r-biomformat
+  - bioconductor--biomformat
   - r-data.table
   - r-rstatix
-  - r-ANCOMBC
+  - bioconductor-ANCOMBC
